@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Curos_Intensivo_C#/1.0.0": {
+        "runtime": {
+          "Curos_Intensivo_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Curos_Intensivo_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

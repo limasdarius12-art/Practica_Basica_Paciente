@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Curos_Intensivo_C#\Curos_Intensivo_C#\bin\Debug\net8.0\Curos_Intensivo_C#.exe
+C:\Users\ASUS\source\repos\Curos_Intensivo_C#\Curos_Intensivo_C#\bin\Debug\net8.0\Curos_Intensivo_C#.deps.json
+C:\Users\ASUS\source\repos\Curos_Intensivo_C#\Curos_Intensivo_C#\bin\Debug\net8.0\Curos_Intensivo_C#.runtimeconfig.json
+C:\Users\ASUS\source\repos\Curos_Intensivo_C#\Curos_Intensivo_C#\bin\Debug\net8.0\Curos_Intensivo_C#.dll
+C:\Users\ASUS\source\repos\Curos_Intensivo_C#\Curos_Intensivo_C#\bin\Debug\net8.0\Curos_Intensivo_C#.pdb
+C:\Users\ASUS\source\repos\Curos_Intensivo_C#\Curos_Intensivo_C#\obj\Debug\net8.0\Curos_Intensivo_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Curos_Intensivo_C#\Curos_Intensivo_C#\obj\Debug\net8.0\Curos_Intensivo_C#.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Curos_Intensivo_C#\Curos_Intensivo_C#\obj\Debug\net8.0\Curos_Intensivo_C#.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Curos_Intensivo_C#\Curos_Intensivo_C#\obj\Debug\net8.0\Curos_Intensivo_C#.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Curos_Intensivo_C#\Curos_Intensivo_C#\obj\Debug\net8.0\Curos_Intensivo_C#.dll
+C:\Users\ASUS\source\repos\Curos_Intensivo_C#\Curos_Intensivo_C#\obj\Debug\net8.0\refint\Curos_Intensivo_C#.dll
+C:\Users\ASUS\source\repos\Curos_Intensivo_C#\Curos_Intensivo_C#\obj\Debug\net8.0\Curos_Intensivo_C#.pdb
+C:\Users\ASUS\source\repos\Curos_Intensivo_C#\Curos_Intensivo_C#\obj\Debug\net8.0\Curos_Intensivo_C#.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Curos_Intensivo_C#\Curos_Intensivo_C#\obj\Debug\net8.0\ref\Curos_Intensivo_C#.dll
