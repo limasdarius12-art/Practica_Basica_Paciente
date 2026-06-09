@@ -1,10 +1,9 @@
 # Primeros pasos documentación 
 ***ERRORES :x: ***
 |                ERRORES                                  |                     Descricpiones                                  |
-|------------------------------------------------------------------------------------------------------------------------------|
+|---------------------------------------------------------|--------------------------------------------------------------------|
 |CamelCase                                                | Precisar los nombres de las variables para que se pueda destinguir |
-|Flujo de negocio                                         |El sistemas es **OPTIMO** para una sociedad del rango mayor si en caso 
-                                                           ingresaria un menor el sistemas falla                               |
+|Flujo de negocio                                         |El sistemas es **OPTIMO** para una sociedad del rango mayor si en caso ingresaria un menor elsistemasfalla|                
 
 ## Sugerencias :heavy_exclamation_mark:
 1. Guarde datos **Basura**
